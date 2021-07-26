@@ -5,4 +5,5 @@ application: extension-template {
   entitlements: {
     core_api_methods: ["me"]
   }
+
 }
